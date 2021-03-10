@@ -1,0 +1,55 @@
+img{
+  margin-left: 41%;
+}
+
+body{
+  background-color: rgb(253, 213, 137);
+}
+
+h1{
+  text-align: center;
+  color: red;
+}
+
+h2{
+  margin-left: 45%;
+}
+
+h4{
+  margin-left: 8%;
+}
+
+li {
+  padding: 5px;
+  margin: 5px;
+  background: #faebd7;
+}
+
+.label {
+  font-weight: bold;
+}
+
+.create-update-form {
+  align-content: center;
+}
+
+.form-group {
+  margin-left: 38%;
+}
+
+button{
+  margin-left: 46%;
+  border: none;
+  color: rgb(51, 51, 51);
+  padding: 10px 30px;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  background-color: rgb(151, 208, 255);
+  font-size: 15px;
+}
+
+p{
+  text-align: center;
+}

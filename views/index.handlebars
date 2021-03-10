@@ -1,0 +1,44 @@
+
+<img src="/images/burger.png" width="250" height="250">
+
+<h1>Eat-Da-Burger!</h1>
+
+<main class="container">
+        <section>
+          <section class="row">
+            <section class="col-md-6">
+              <h4>Burgers Made:</h4>
+              <ol>
+                {{#each burgers}}
+                {{#unless devoured}}
+                {{> burger-block devoured=true}}
+                {{/unless}}
+                {{/each}}
+              </ol>
+            </section>
+
+            <section class="col-md-6">
+             <h4>Burgers Eaten:</h4>
+            <ol>
+              {{#each burgers}}
+              {{#if devoured}}
+              {{> burger-block devoured=false}}
+              {{/if}}
+              {{/each}}
+            </ol>
+            </section>
+          </section>
+        </section>
+</main>
+
+<h2>Add Burger!</h2>
+<form id="create-form">
+  
+  <div class="form-group">
+    <textarea type="text" id="ca" name="name" rows="4" cols="40"></textarea>
+  </div>
+
+  <button type="submit">Submit</button>
+</form>
+
+<p>Enter a burger you want to eat. Click the "Submit" button</p>
