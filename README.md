@@ -1,7 +1,5 @@
 # Burger
 
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-
 ## Description
 This application allows you to add 
 
@@ -12,8 +10,6 @@ Technologies used: JavaScript, ORM, jQuery, Node.js, Express.js, Handlebars.js, 
 * [Installation](#installation)
 
 * [Photos](#photos)
-
-* [License](#license)
 
 * [Contribution](#contribution)
 
@@ -30,9 +26,6 @@ npm i
 Running the application
 <img src="">
 
-## License
-
-This project is licensed under the APACHE 2.0 license.
 
 ## Contribution
 
