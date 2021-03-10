@@ -3,7 +3,9 @@
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 ## Description
+This application allows you to add 
 
+Technologies used: JavaScript, ORM, jQuery, Node.js, Express.js, Handlebars.js, mySQL Database, HTML, CSS, BootStrap, Heroku
 
 ## Table of Content
 
