@@ -7,6 +7,8 @@ This application allows  a full stack app that the front-end and back-end intera
 
 * [Installation](#installation)
 
+* [Heroku](#Heroku)
+
 * [Technology](#Technology)
 
 * [Photos](#photos)
@@ -21,6 +23,9 @@ To install necessary dependencies, run the following command:
 ```bash
 npm i
 ```
+## Heroku
+
+Link
 
 ## Technology
 
