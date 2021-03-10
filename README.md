@@ -29,7 +29,7 @@ Technologies used: JavaScript, ORM, jQuery, Node.js, Express.js, Handlebars.js, 
 
 ## Photos
 Running the application
-<img src="">
+<img src="images/app.png">
 
 
 ## Contribution
