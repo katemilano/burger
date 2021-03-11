@@ -5,17 +5,29 @@ This application allows  a full stack app that the front-end and back-end intera
 
 ## Table of Content
 
-* [Installation](#installation)
-
 * [Heroku](#Heroku)
 
-* [Technology](#Technology)
-
 * [Photos](#photos)
+
+* [Installation](#installation)
+
+* [Technology](#Technology)
 
 * [Contribution](#contribution)
 
 * [Questions](#questions)
+
+## Heroku
+
+<a href="https://eataburger-app.herokuapp.com/">Heroku Link</a>
+
+## Photos
+Running the application
+<img src="images/app.png">
+
+## Technology
+
+Technologies used: JavaScript, ORM, jQuery, Node.js, Express.js, Handlebars.js, mySQL Database, HTML, CSS, BootStrap, Heroku
 
 ## Installation
 To install necessary dependencies, run the following command:
@@ -23,19 +35,6 @@ To install necessary dependencies, run the following command:
 ```bash
 npm i
 ```
-## Heroku
-
-<a href="https://eataburger-app.herokuapp.com/">Heroku Link</a>
-
-## Technology
-
-Technologies used: JavaScript, ORM, jQuery, Node.js, Express.js, Handlebars.js, mySQL Database, HTML, CSS, BootStrap, Heroku
-
-
-## Photos
-Running the application
-<img src="images/app.png">
-
 
 ## Contribution
 
