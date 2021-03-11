@@ -25,7 +25,8 @@ npm i
 ```
 ## Heroku
 
-Link
+Link: https://eataburger-app.herokuapp.com/
+
 
 ## Technology
 
