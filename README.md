@@ -44,4 +44,3 @@ Thanks to the instructors and teaching assistants at UNC Chapel Hill Bootcamp fo
 
 If you have any questins about the repo, you can contact me directly at catherine.ann.milano@gmail.com. You can find more of my work at [katemilano](http://github.com/katemilano/).
     
-
